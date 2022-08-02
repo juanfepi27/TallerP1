@@ -9,4 +9,4 @@ def home(request):
 
     #return render(request,'home.html')
     
-    return render(request,'home.html',{'name':'Greg Lim'})
+    return render(request,'home.html',{'name':'Juan Felipe Pinzón'})
