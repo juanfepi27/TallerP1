@@ -10,3 +10,6 @@ def home(request):
     #return render(request,'home.html')
     
     return render(request,'home.html',{'name':'Juan Felipe Pinzón'})
+
+def about(request):
+    return render(request,'about.html')
