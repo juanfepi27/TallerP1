@@ -1,5 +1,3 @@
-from re import search
-from turtle import title
 from django import http
 from django.shortcuts import render
 from django.http import HttpResponse
